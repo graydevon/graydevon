@@ -4,4 +4,3 @@
 
 
 
-Hey my name is Devon Gray, and I have been learning through University of Minnesota's Coding Bootcamp. Im currently learning and interested in JavaScript, HTML, and CSS. 
